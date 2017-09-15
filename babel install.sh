@@ -1,0 +1,1 @@
+npm install babel-core babel-preset-react babel-preset-es2015  babel-preset-stage-0 react react-dom webpack babel-loader css-loader style-loader webpack-dev-server html-webpack-plugin url-loade --save-dev
